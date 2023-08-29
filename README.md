@@ -28,13 +28,13 @@ In this challenge, which is a collaboration between Frontend Mentor, Scrimba, an
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DvoraG/space-website)
-- Live Site URL: [Add live site URL here](https://dvorag.github.io/space-website/)
+- Solution URL: https://github.com/DvoraG/space-website
+- Live Site URL: https://dvorag.github.io/space-website/
 
 ## My process
 
-In th beginning I chose to code along with Kevin and take every small challenge, he was providing. For me it was more the question, what are the steps to start with such a project, than how to code. It helped me a lot to become more and more confident to solve bigger steps.
-In the end I actually decided to take a different approach regarding the data: to fetch it from the included data.json file.
+In the beginning I chose to code along with Kevin and take every small challenge, he was providing. For me it was more the question, what are the steps to start with such a project, than how to code. It helped me a lot to become more and more confident to solve bigger steps.
+In the end I actually decided to take a different approach regarding the data: to fetch it from the included data.json file using JS.
 
 ### Built with
 
@@ -47,9 +47,9 @@ In the end I actually decided to take a different approach regarding the data: t
 
 ### What I learned
 
-Most important take away for me are the principles, how to start:
+For me the most important take aways are the principles, how to start with such a project:
 
-- HTML - always building out the most complex structure first, which is mst of the time for  
+- HTML - always building out the most complex structure first, which is most of the time for  
    desktop
 - CSS - mobile first
 - design - as close as possible, but no need for 100%
